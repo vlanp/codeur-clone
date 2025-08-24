@@ -1,0 +1,1029 @@
+[
+  {
+    "url": "/projects/395427-ameliorer-le-logiciel-de-pause-workrave",
+    "id": "395427",
+    "titre": "Améliorer le logiciel de pause workrave",
+    "statut": "Ouvert",
+    "budget": null,
+    "offres": "8 offres",
+    "vues": "815 vues",
+    "interactions": "19 interactions",
+    "description": "Travailler sans arrêt sur l’ordinateur peut nous rendre las et nous faire négliger l’activité physique. Pour éviter cela, le logiciel Workrave peut nous aider. C’est un outil qui nous propose de faire des pauses régulières et de pratiquer quelques exercices.\n\nJe trouve que les pause pourrait être plus personnalisées\n\nJ'aimerais bien étudier ce project avec une équipe intéressée \n\nFaire un cahier des charges et lancer un crowdfunding\n\nAu plaisir de faire connaissance Alexandre",
+    "date_publication": "08 octobre 2023 à 12h01",
+    "budget_detaille": "Moins de 500 €",
+    "profils_recherches": [
+      {
+        "nom": "Développeur PHP",
+        "url": "/users/c/developpement/sc/php-mysql"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/463106-recherche-developpeur",
+    "id": "463106",
+    "titre": "Recherche développeur",
+    "statut": "Ouvert",
+    "budget": null,
+    "offres": "7 offres",
+    "vues": "118 vues",
+    "interactions": null,
+    "description": "Nous cherchons un développeur pour une application de photo capturer et conserver dans un coffre non consultable par les utilisateurs jusqu’à une certaine date.",
+    "date_publication": "23 août 2025 à 17h33",
+    "budget_detaille": "500 € à 1 000 €",
+    "profils_recherches": [
+      {
+        "nom": "Développeur spécifique",
+        "url": "/users/c/web/sc/developpement-specifique"
+      },
+      {
+        "nom": "Développeur mobile",
+        "url": "/users/c/developpement/sc/creation-application-mobile"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/463115-application-mobile-voyages-avec-geolocalisation",
+    "id": "463115",
+    "titre": "Application mobile voyages avec géolocalisation",
+    "statut": "Ouvert",
+    "budget": null,
+    "offres": "15 offres",
+    "vues": "134 vues",
+    "interactions": "18 interactions",
+    "description": "Bonjour je recherche une personne pour développer mon application mobile pour le voyage, alors certes c'est très généraliste mais je ne souhaite pas en dire plus publiquement, la seule précision serait que l'application doit avoir une géolocalisation. \nPour le budget je n'ai pas d'idée précise et l'application va être de taille car c'est pour tous les pays du monde ou au moins 150 pays avec une dizaine de villes a chaque fois.. Je suis consciente qu'il va falloir au départ être patient car je ne souhaite pas dévoiler comment et pourquoi. Pour parler de mon projet je vous ferai signer un accord de confidentialité. Merci à vous par avance. Je tenterai d'en dire plus une fois que je verrai vos expériences et vos tarifs pour cette grosse application. Merci de m'avoir lu. Bien a vous cher développeur 😎😉\n⚡Pour information j'ai mis 10 000 euros mais j'ai des offres avec moins et + alors je ne sais pas combien cela va me coûter.\nLaissez moi vérifier toutes vos demandes, expériences, références, tarifs et je reviendrai vers vous, je ne vous laisse pas en vu rassurez vous, même si c'est pour dire non merci, vous aurez de mes nouvelles 🙏🏼🙏🏼🙏🏼",
+    "date_publication": "23 août 2025 à 17h32",
+    "budget_detaille": "Plus de 10 000 €",
+    "profils_recherches": [
+      {
+        "nom": "Développeur mobile",
+        "url": "/users/c/developpement/sc/creation-application-mobile"
+      },
+      {
+        "nom": "Développeur iOS",
+        "url": "/users/c/developpement/sc/creation-application-iphone"
+      },
+      {
+        "nom": "Développeur Android",
+        "url": "/users/c/developpement/sc/creation-application-android"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/463113-recherche-developpeur-python-urgent",
+    "id": "463113",
+    "titre": "Recherche développeur Python (urgent °",
+    "statut": null,
+    "budget": null,
+    "offres": "9 offres",
+    "vues": "148 vues",
+    "interactions": "23 interactions",
+    "description": "Recherche développeur Python (urgent – deadline DEMAIN soir)\n\nJe cherche quelqu’un pour m’aider à finaliser rapidement un projet \nLe projet consiste à développer un outil d’analyse de données (Python) avec interface et génération de rapport.\nLes données proviennent de fichiers Excel et de fichiers de mesure (MDF).\nL’outil doit comparer les données, détecter des scénarios prédéfinis, et générer un rapport clair (HTML).\n\nCompétences souhaitées :\n\nPython (pandas, matplotlib, tkinter)\n\nTraitement de données (Excel, CSV, MDF)\n\nGénération de rapports automatisés\n\nUrgence  LES NON COMPTENTS SABSENTIR\nPAS DUTILISATION DE IA",
+    "date_publication": "23 août 2025 à 17h30",
+    "budget_detaille": "Moins de 500 €",
+    "profils_recherches": [
+      {
+        "nom": "Développeur spécifique",
+        "url": "/users/c/web/sc/developpement-specifique"
+      },
+      {
+        "nom": "Développeur Python",
+        "url": "/users/c/developpement/sc/python"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/463112-fusion-de-formulaires-pour-generer-un-base-de-donnees",
+    "id": "463112",
+    "titre": "Fusion de formulaires pour générer un base de données.",
+    "statut": "Ouvert",
+    "budget": null,
+    "offres": "6 offres",
+    "vues": "160 vues",
+    "interactions": null,
+    "description": "Le site internet de Solo Too ([URL visible pour les membres Pro]) repose sur une motorisation wordpress. L’inscription des membre se fait via des formulaires fluentforms.\nLa validation des demandes d’inscription de fait manuellement sur base de l’analyse d’un questionnaire de pré-inscription généré par FluenForm. Après acceptation de l’inscription une automatisation dans FluentCRM envoie trois questionnaires supplémentaires :\n1. Quels sont vos attentes sentimentales (si dans le questionnaire de pré-inscription, le nouvel inscrit déclare en avoir)\n2. Parlez-nous de vous ?\n3. Quels sont vos hobbies,… ?\nTout ceci forme un modèle de base de données que vous retrouverez ici : : [URL visible pour les membres Pro]\nFluent Forms ORM fournit une implémentation ActiveRecord simple et esthétique pour travailler avec des tables de base de données. Chaque table de base de données possède un « modèle » correspondant qui permet d'interagir avec cette table. Les modèles vous permettent d'interroger des données dans des tables de base de données, ainsi que d'insérer de nouveaux enregistrements dans la table. \nVoici mes demandes :\n1)\tFusionner ces 3 ou 4 formulaires pour qu’il ne forme plus qu’une seule base de donnée. Incrémentation de la base de donnée à chaque nouvelle inscription. Cette nouvelle base de donnée devrait pouvoir être exploitable par des algorithme de matching des profils et/ou par une IA qui ferait le même travail.\n\n2)\tPouvoir aisément faire des recherches dans la base de données, ajout de champs, édition de donnés\n2.1. Il devra être aisé de naviguer à travers les informations des profils des membres (recherche, filtre,…). Rmq : il y a aussi des photos qui doivent pouvoir être visualisées.\n2.2. Des champs devront pouvoir être ajouté automatiquement (exemple : l'indice IMC, une évaluation de la beauté d'une personne\n2.3. Des champs devront pouvoir être édité manuellement ou automatiquement (l'indice IMC doit être généré par une formule sur base du poids et de la taille qui sont des donnés de la base de donnés, l'évaluation de la beauté devra pouvoir se faire manuellement par un opérateur)\n2.4. Il devra être facile de rechercher dans la base de données, les personnes répondant à un ou plusieurs critères (parmi une sélection laissée au choix de l’opérateur) . Ou encore, quelles sont les personnes susceptibles d’être intéressées par les caractéristiques d’une personne déterminée.\n2.5. Il sera possible d’exporter des résultats d’une recherche (Noms, prénom, emails) ou de créer une étiquette exploitable par le CRM avec ces résultats\n2.6. L’interface d’exploration de ces donnés peut-être interne à la plate-forme internet de solotoo, hébergé par un prestataire ou encore être un logiciel tiers installé sur PC (sur Mac de préférence)\n\n3)\tEdition des profils par les membres\nUne fois connecté à [URL visible pour les membres Pro], le membre doit pouvoir se diriger depuis la page d’accueil vers la page d’édition de son profil. Là une arborescence adaptée à la consultation de ses données doit lui permettre de naviguer entre les différents types de donnés et lui permettre de les mettre à jour (remarque, certaines données ne pourront pas être modifiées (ou pourront l'être après validation manuelle de la demande par un opérateur), d’autres ne seront pas visibles (ex : indice IMC,…)",
+    "date_publication": "23 août 2025 à 17h02",
+    "budget_detaille": "500 € à 1 000 €",
+    "profils_recherches": [
+      {
+        "nom": "Développeur spécifique",
+        "url": "/users/c/web/sc/developpement-specifique"
+      },
+      {
+        "nom": "Développeur CMS",
+        "url": "/users/c/web/sc/autres-cms"
+      },
+      {
+        "nom": "Développeur WordPress",
+        "url": "/users/c/web/sc/wordpress"
+      },
+      {
+        "nom": "Expert BDD",
+        "url": "/users/c/developpement/sc/bases-de-donnees-sgbd"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/463105-alerte-fichiers-modifier-sur-nas-synolgy",
+    "id": "463105",
+    "titre": "Alerte fichiers modifier sur nas synolgy",
+    "statut": "Ouvert",
+    "budget": null,
+    "offres": "2 offres",
+    "vues": "285 vues",
+    "interactions": "6 interactions",
+    "description": "je cherche une application ou un script pour les nas synology avec le dernier dsm 7.2 , je souhaite surveiller des dossiers\n (modifications, suppression, changement de nom de fichiers) \n(depuis le nas) et envoyé un mail tout les matins par exemple a differents destinataires, c'est destinaires doivent etre dans un groupe facile a ajouter ou enlever suivant le dossier a surveiller, un dossier ged (ged aujourd'hui  mais doit pouvoir etre changer) et des sous dossiers a,b,c,d, le dossier a appartient au groupe a1 tout les membre du groupe a1 recoivent le mail et ainsi de suite, on peut utiliser le service de notification de synology ou autres. possiblite d'editer les diffents groupes afin d'ajouter des personnes, il faut aussi pouvoir supprimer des utilisateurs, ajouter ou supprimer la surveillance d'un dossier, le must application web pour parametrer les dossiers et groupes ou destinataires de mails, sinon fichier xlsx ou autre facilement accesible a toutes personnes, cela doit rester fonctionnel malgres un changement de dsm, donc plutot du python ou autre.Les journaux smb et http (file station) sont activé et les archives sont stocker dans un dossier partage sur le nas, un seul mail par jour avec pour trois titres - modifications - suppression - changement du nom, puis le nom du fichiers l'heure et l'utilisateur ayant fait l'action, en cas de chagement de nom on doit avoir l'ancien et le nouveau",
+    "date_publication": "23 août 2025 à 15h14",
+    "budget_detaille": "Moins de 500 €",
+    "profils_recherches": [
+      {
+        "nom": "Sysadmin",
+        "url": "/users/c/web/sc/admin-systeme-securite"
+      },
+      {
+        "nom": "Développeur spécifique",
+        "url": "/users/c/web/sc/developpement-specifique"
+      },
+      {
+        "nom": "Développeur Python",
+        "url": "/users/c/developpement/sc/python"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/419368-application-mobile-vtc",
+    "id": "419368",
+    "titre": "Application mobile VTC",
+    "statut": "Fermé",
+    "budget": null,
+    "offres": "49 offres",
+    "vues": "4538 vues",
+    "interactions": "75 interactions",
+    "description": "Bonjour,\n\nVous êtes développeur Junior sous FlutterFlow  ?\n\nNous sommes une start-up avec l'objectif de 20 perfomers, sur le secteur du transport de personnes. Notre offre est ambitieuse: gagnez le cœur de nos futurs clients, dans une zone  française en développement et être le leader sur notre marché local.\n\nNous structurons déjà notre équipe, comment tout cela s'imbrique,  le Back-end , le Front-end ...  Mettons nous autour d'une table ou d'un écran, voyons comment réaliser ce challenge.\n\nNous recherchons notre/nos développeurs pour atteindre notre seuil de développement , pour Septembre 2024 et ouvrir l'application au public en Novembre 2024.\n\nNos pairs: Uber, Bolt, Kapten... seront vos modèles d'inspiration. Mais le NoCode doit nous permettre de développer un service qui aura toutes les fonctionnalités d'un codage traditionnel...\n\nPS: budget, délai, mise en place, fonctionnalités que vous pouvez atteindre.\n\nChris.",
+    "date_publication": "08 mai 2024 à 18h51",
+    "budget_detaille": "1 000 € à 10 000 €",
+    "profils_recherches": [
+      {
+        "nom": "Développeur mobile",
+        "url": "/users/c/developpement/sc/creation-application-mobile"
+      },
+      {
+        "nom": "Développeur iOS",
+        "url": "/users/c/developpement/sc/creation-application-iphone"
+      },
+      {
+        "nom": "Développeur Android",
+        "url": "/users/c/developpement/sc/creation-application-android"
+      },
+      {
+        "nom": "Développeur full-stack",
+        "url": "/users/c/developpement/sc/full-stack"
+      },
+      {
+        "nom": "Développeur back-end",
+        "url": "/users/c/developpement/sc/back-end"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/463099-creation-de-saas-ultra-complexe-avec-integration-ia",
+    "id": "463099",
+    "titre": "Création de Saas ultra complexe avec intégration IA",
+    "statut": "Ouvert",
+    "budget": null,
+    "offres": "25 offres",
+    "vues": "519 vues",
+    "interactions": "51 interactions",
+    "description": "Partnex est une plateforme ambitieuse qui a pour objectif de révolutionner la collaboration entre influenceurs, marques et freelancers.\nNous construisons un hub tout-en-un pour gérer les collaborations : campagnes, messagerie, analytics, automatisations via IA… le tout dans une interface moderne, rapide et multilingue.\n\nCe n’est pas un petit projet. Partnex est complexe et exigeant :\n\nMulti-rôles (influenceurs, marques, freelancers).\n\nSystème de messagerie temps réel et notifications intelligentes.\n\nPaiements sécurisés et suivi des revenus.\n\nIntégration de l’IA pour automatiser les tâches répétitives.\n\nDesign premium pour offrir une expérience fluide et intuitive.\n\nNotre ambition est de rivaliser avec des géants comme Impact.com, mais avec une approche plus intelligente, plus accessible et plus créative.\n\nNous cherchons des développeurs passionnés, prêts à relever un vrai défi technique :\n\nFrontend : Next.js, Tailwind, animations et UI/UX pixel-perfect.\n\nBackend : Node.js, NestJS (ou équivalent), bases de données performantes, API robustes.\n\nIA/Automatisation : intégration d’API IA pour booster la productivité.\n\nSi tu es motivé par un projet techniquement ambitieux, avec une vraie vision long terme, Partnex a besoin de toi.",
+    "date_publication": "23 août 2025 à 12h36",
+    "budget_detaille": "Plus de 10 000 €",
+    "profils_recherches": [
+      {
+        "nom": "Intégrateur de systèmes de paiement en ligne",
+        "url": "/users/c/e-commerce/sc/paiement-carte-bancaire"
+      },
+      {
+        "nom": "Développeur Node.js",
+        "url": "/users/c/developpement/sc/node-js"
+      },
+      {
+        "nom": "Consultant SaaS",
+        "url": "/users/c/web/sc/saas"
+      },
+      {
+        "nom": "Développeur full-stack",
+        "url": "/users/c/developpement/sc/full-stack"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/463098-jeu-video-de-foot-mobile-en-3v3-4v4-5v5",
+    "id": "463098",
+    "titre": "Jeu vidéo de foot mobile en 3v3,4v4,5v5",
+    "statut": "Ouvert",
+    "budget": null,
+    "offres": "3 offres",
+    "vues": "415 vues",
+    "interactions": null,
+    "description": "Je cherche des développeurs afin de faire un projet, c'est de créer un jeu de foot sur mobile révolutionnaire avec différents modes et en 3D comme par exemple le 3v3,4v4 ainsi que le 5v5 + mode classé et classements mondiaux et de chaque pays ou bien sur chacun contrôle son propre joueur sur le terrain avec une touche pour tirer ,passer ,quelques dribbles . J'ai remarqué qu'il n'y a pas vraiment de jeux de foot multijoueurs donc c'est pour cela que je demande si c'est possible de faire ce projet .",
+    "date_publication": "23 août 2025 à 12h36",
+    "budget_detaille": "Moins de 500 €",
+    "profils_recherches": [
+      {
+        "nom": "Développeur spécifique",
+        "url": "/users/c/web/sc/developpement-specifique"
+      },
+      {
+        "nom": "Développeur mobile",
+        "url": "/users/c/developpement/sc/creation-application-mobile"
+      },
+      {
+        "nom": "Développeur de jeux vidéo",
+        "url": "/users/c/developpement/sc/jeux-videos"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/463068-creation-d-une-application-simple-pour-les-slameurs",
+    "id": "463068",
+    "titre": "Création d'une application simple pour les Slameurs",
+    "statut": "Ouvert",
+    "budget": null,
+    "offres": "7 offres",
+    "vues": "697 vues",
+    "interactions": null,
+    "description": "Nous cherchons un développeur pour développer une application simple mais fonctionnelle, qui permettra aux Slameurs de partager leurs textes, audios et vidéos",
+    "date_publication": "23 août 2025 à 08h32",
+    "budget_detaille": "500 € à 1 000 €",
+    "profils_recherches": [
+      {
+        "nom": "Développeur spécifique",
+        "url": "/users/c/web/sc/developpement-specifique"
+      },
+      {
+        "nom": "Développeur full-stack",
+        "url": "/users/c/developpement/sc/full-stack"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/463087-faire-un-devis-projet-gaming",
+    "id": "463087",
+    "titre": "Faire un devis projet Gaming",
+    "statut": "Ouvert",
+    "budget": null,
+    "offres": "14 offres",
+    "vues": "765 vues",
+    "interactions": "9 interactions",
+    "description": "Bonjour,\n\nNous sommes une communautés fan autour d'un jeu vidéo, nous souhaitons faire estimé notre projet (sans cahier des charges).\n\nMéthode Agile oblige, le projet est tellement gros qu'il est impossible de même faire une ébauche. Pour le stack on aimerait :\n- FastAPI pour le backend\n- React pour le front & backoffice (espace utilisateur & administration)\n- BDD :: PostgreSQL\n(Le stack est négociable, si vous voulez proposer le votre, indiquez le immédiatement)\n\nOn vise une plateforme ultra communautaire avec énormément de système lié au jeu.\n\nIdéalement nous préfèrerions travailler avec un petit groupe Freelance.",
+    "date_publication": "23 août 2025 à 08h21",
+    "budget_detaille": "1 000 € à 10 000 €",
+    "profils_recherches": [
+      {
+        "nom": "Expert BDD",
+        "url": "/users/c/developpement/sc/bases-de-donnees-sgbd"
+      },
+      {
+        "nom": "Développeur Python",
+        "url": "/users/c/developpement/sc/python"
+      },
+      {
+        "nom": "Développeur full-stack",
+        "url": "/users/c/developpement/sc/full-stack"
+      },
+      {
+        "nom": "Développeur API",
+        "url": "/users/c/developpement/sc/conception-api"
+      },
+      {
+        "nom": "Développeur React",
+        "url": "/users/c/developpement/sc/react"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/457747-j-ai-commence-une-application-sur-adalo-j-aimerais-la-perfectionner",
+    "id": "457747",
+    "titre": "J'ai commencé une application sur Adalo, j'aimerais la perfectionner",
+    "statut": "Ouvert",
+    "budget": null,
+    "offres": "13 offres",
+    "vues": "1139 vues",
+    "interactions": "16 interactions",
+    "description": "Bonjour,\n\nJe suis créatrice de la marque NeraBeauty BlackCosmétiques, spécialisée dans les soins pour peaux noires, métissées et cheveux afro.\nJ’ai développé une première version d’une application mobile (sur Adalo) qui propose, après un quiz, des routines personnalisées pour la peau et les cheveux selon le type et les objectifs de l’utilisateur.\n\nJ’ai besoin d’un freelance pour :\n\n1. Structurer proprement l’application (navigation, base de données, lien dynamique entre quiz et routines).\n2. Ajouter des photos illustratives non modifiables pour guider les utilisateurs dans leurs routines.\n3. Optimiser le design (couleurs, polices, alignements) selon mon identité de marque.\n4. Corriger ou améliorer les liens dynamiques (le quiz doit mener à la bonne routine selon les réponses).\n5. Ajouter quelques fonctions pratiques (ex : rappel, suivi journalier, galerie photo, favoris).\n\nOutils utilisés :\nAdalo (version gratuite pour le moment)\nJe fournis les contenus (textes, images, logo, couleurs…)\nL'application est déjà fonctionnelle mais à améliorer et structurer.\n\nCompétences recherchées :\nExpérience confirmée avec Adalo\nConnaissance des logiques de base de données simples\nSens esthétique et respect d’une charte graphique\nBon relationnel et communication claire\n\nDélai souhaitée :\nDès que possible.\nJe suis disponible pour un échange vocal ou écrit pour présenter l’app en détail.",
+    "date_publication": "18 juin 2025 à 13h29",
+    "budget_detaille": "Moins de 500 €",
+    "profils_recherches": [
+      {
+        "nom": "Développeur mobile",
+        "url": "/users/c/developpement/sc/creation-application-mobile"
+      },
+      {
+        "nom": "UI/UX designer",
+        "url": "/users/c/web/sc/experience-utilisateur"
+      },
+      {
+        "nom": "Développeur no code",
+        "url": "/users/c/web/sc/no-code"
+      },
+      {
+        "nom": "Web designer",
+        "url": "/users/c/web/sc/web-design"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/463084-devloppeur",
+    "id": "463084",
+    "titre": "Devloppeur",
+    "statut": "Ouvert",
+    "budget": null,
+    "offres": "10 offres",
+    "vues": "938 vues",
+    "interactions": "9 interactions",
+    "description": "Mission freelance pour suivre et améliorer la plateforme  (site + app).\nTâches : ajout de fonctionnalités (filtres intelligents, multi-devises, système de notation, paiements sécurisés), optimisation UX/UI et performance.\nCompétences : React/Vue.js, Node.js/Laravel/Django, API & intégrations.\nRemote possible, évolution long terme.",
+    "date_publication": "23 août 2025 à 05h15",
+    "budget_detaille": "Moins de 500 €",
+    "profils_recherches": [
+      {
+        "nom": "UI/UX designer",
+        "url": "/users/c/web/sc/experience-utilisateur"
+      },
+      {
+        "nom": "Développeur full-stack",
+        "url": "/users/c/developpement/sc/full-stack"
+      },
+      {
+        "nom": "Développeur front-end",
+        "url": "/users/c/developpement/sc/developpeur-front-end"
+      },
+      {
+        "nom": "Développeur back-end",
+        "url": "/users/c/developpement/sc/back-end"
+      },
+      {
+        "nom": "Développeur API",
+        "url": "/users/c/developpement/sc/conception-api"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/462779-developpeur-ia",
+    "id": "462779",
+    "titre": "Développeur ia",
+    "statut": "Ouvert",
+    "budget": null,
+    "offres": "54 offres",
+    "vues": "4580 vues",
+    "interactions": "29 interactions",
+    "description": "Je recherche un développeur expérimenté en IA appliquée à la gestion documentaire et à l’automatisation pour concevoir un agent IA d’appels d’offres.\nLe projet consiste à :\nLire et analyser automatiquement les dossiers d’appel d’offres (PDF, Word, Excel).\nIdentifier les compétences requises et les mots-clés pertinents.\nProposer une sélection de partenaires à contacter.\nGénérer des résumés synthétiques (ex. intégration dans Notion/SharePoint).\nPréparer un début de mémoire technique collaboratif (Google Docs/Word Online).\nPermettre une personnalisation selon le règlement de consultation.\nStack et compétences recherchées :\nMaîtrise des LLM (OpenAI, Llama, etc.) et fine-tuning si nécessaire.\nExpérience en RAG (Retrieval Augmented Generation) et traitement documentaire.\nIntégration avec API (SharePoint, Notion, Google Workspace).\nBonnes pratiques en sécurité des données.\nLocalisation du projet : Créteil / télétravail possible",
+    "date_publication": "19 août 2025 à 10h17",
+    "budget_detaille": "1 000 € à 10 000 €",
+    "profils_recherches": [
+      {
+        "nom": "Développeur spécifique",
+        "url": "/users/c/web/sc/developpement-specifique"
+      },
+      {
+        "nom": "Freelance en gestion de flux GED",
+        "url": "/users/c/systemes-d-entreprise/sc/gestion-de-documents-ged"
+      },
+      {
+        "nom": "Développeur API",
+        "url": "/users/c/developpement/sc/conception-api"
+      },
+      {
+        "nom": "Développeur Machine Learning",
+        "url": "/users/c/ia/sc/machine-learning"
+      }
+    ],
+    "competences": ["Premium"],
+    "localisation": null
+  },
+  {
+    "url": "/projects/463076-developpement-d-un-mod-gta-avec-interactions",
+    "id": "463076",
+    "titre": "Développement d'un mod GTA avec interactions",
+    "statut": "Ouvert",
+    "budget": null,
+    "offres": "2 offres",
+    "vues": "1179 vues",
+    "interactions": "3 interactions",
+    "description": "Bonjour,\n\nJe recherche un développeur capable de créer un mod personnalisé pour GTA (version PC) avec un système automatisé et interactif.\n\nLe concept :\n\nLe personnage doit se déplacer de manière autonome sur la map (marche en continu).\n\nPour éviter toute détection d’automatisation, il doit effectuer de temps en temps des actions aléatoires : virages, sauts, changements de direction, etc.\n\nLorsqu’un événement extérieur survient, des ennemis spécifiques (type super-héros ou autres modèles personnalisés) doivent apparaître autour du personnage.\n\nLe personnage doit alors :\n\nSélectionner automatiquement une arme,\n\nActiver un aimbot pour éliminer les ennemis,\n\nPuis, une fois les ennemis neutralisés, revenir automatiquement à une arme basique (poing, matraque, arme simple) et reprendre sa marche autonome.\n\nObjectif :\nObtenir un système entièrement automatisé et stable, basé sur GTA, qui puisse tourner en continu avec ces mécaniques.",
+    "date_publication": "23 août 2025 à 00h34",
+    "budget_detaille": "500 € à 1 000 €",
+    "profils_recherches": [
+      {
+        "nom": "Développeur spécifique",
+        "url": "/users/c/web/sc/developpement-specifique"
+      },
+      {
+        "nom": "Développeur de jeux vidéo",
+        "url": "/users/c/developpement/sc/jeux-videos"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/463071-esp32-s3-ota-via-url",
+    "id": "463071",
+    "titre": "Esp32-S3 OTA via URL",
+    "statut": "Ouvert",
+    "budget": null,
+    "offres": "5 offres",
+    "vues": "1304 vues",
+    "interactions": "9 interactions",
+    "description": "Je cherche un specialiste esp32, pour travailler sur un esp32-S3, je fournis un projet VScode, et il faut implementer le OTA via une url, les partition sont deja correcte.",
+    "date_publication": "22 août 2025 à 22h48",
+    "budget_detaille": "Moins de 500 €",
+    "profils_recherches": [
+      {
+        "nom": "Développeur système embarqué",
+        "url": "/users/c/developpement/sc/electronique-embarquee"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/463065-recherche-de-reine-d-abeille-non-marquee-sur-cadre-de-ruche",
+    "id": "463065",
+    "titre": "Recherche de reine d'abeille non marquée sur cadre de ruche",
+    "statut": "Ouvert",
+    "budget": null,
+    "offres": "4 offres",
+    "vues": "1366 vues",
+    "interactions": null,
+    "description": "Bonjour \nJe représente APILM  Apiculteurs de Lille Métropole et le Rucher Ecole du Botanique de Tourcoing. Nous souhaiterons le développement d'une application permettant par scan entier du cadre ou en partie de retrouver une reine d'abeille sur un cadre de ruche,  nous avons besoin de nos 2 mains pour soulever le cadre rempli d'abeilles. I serait intéressant de pouvoir scanner ce cadre un peux comme le fond les agents des drives en supermarché ou pouvoir utiliser une sorte de lunette spécifique Cette application ne sera utiliser pour l'instant que par autorisation personnelle. Il semble que \"YOLO\" permet ce genre de recherche. Pour info il existe déjà une application \"QUEEN DETECTOR\" qui est intéressante mais qui s'utilise uniquement  par le scan avec le smartphone ou la tablette, sachant que nous sommes ganter et avons besoin de nos 2 mains pour soulever les cadres de ruches Merci pour vos retours\nJean Luc",
+    "date_publication": "22 août 2025 à 22h16",
+    "budget_detaille": "Moins de 500 €",
+    "profils_recherches": [
+      {
+        "nom": "Développeur spécifique",
+        "url": "/users/c/web/sc/developpement-specifique"
+      },
+      {
+        "nom": "Développeur mobile",
+        "url": "/users/c/developpement/sc/creation-application-mobile"
+      },
+      {
+        "nom": "Développeur Machine Learning",
+        "url": "/users/c/ia/sc/machine-learning"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/463060-recherche-developpeur-mobile-android-et-ios",
+    "id": "463060",
+    "titre": "Recherche développeur mobile (Android et iOS)",
+    "statut": "Ouvert",
+    "budget": null,
+    "offres": "11 offres",
+    "vues": "1462 vues",
+    "interactions": "5 interactions",
+    "description": "Bonjour, moi c'est Jean-Marie et j'ai une idée d'une application mobile suite à un travail que j'ai fait. Mais je me rends compte que c'est pas simple! Je n'ai aucune idée d'un coût donc je propose le projet pour me faire une idée et voir si j'abandonne direct ou non! 😆\n\nL'idée serait une application de type touristique sur Paris. Je pense que sur le papier elle n'a rien de bien \"compliqué\" en terme de fonctionnalités.\nEn gros elle doit lister des centaines de lieux catégorisés et sous catégorisés. \nLe lieu est une fiche contenant l'adresse, une zone texte riche, des photos, des web embed, la possibilité de mettre en favori ou non, une map situant le lieu avec géolocalisation, des boutons permettant d'ouvrir Google Map/ouvrir le site officiel/partager la fiche, des balades associées.\nUn lieu peut avoir plusieurs catégories (musées et lieux incontournables par exemple) et également plusieurs sous catégories (musée d'art moderne et musée d'art moyen-âge par exemple).\nIl y a également un onglet Balades où une balade est une fiche similaire à une fiche lieux. Et dans cette fiche on retrouve les lieux rencontrés sur la balade en question. On peut également mettre un embed d'une fiche rando type open runner.\nIl y a un onglet map avec une map contenant les lieux et les balades (point de départ balade). Chaque pin de la map est colorisé selon sa catégorie principale du lieu.\n\nJe vois donc quatre onglets principaux : catégories (on clique sur la catégorie qui nous amène à la sous catégorie puis aux lieux et enfin à la fiche du lieux), lieux (ferait apparaître tous les lieux avec possibilité de filtrer que les catégories, sous catégorie), balades, map (avec filtre sur catégories, sous catégories).\n\nAprès faudrait rajouter les classiques : contactez-moi, settings, crédits,...\n\nBref j'espère que c'est clair!",
+    "date_publication": "22 août 2025 à 20h04",
+    "budget_detaille": "500 € à 1 000 €",
+    "profils_recherches": [
+      {
+        "nom": "Développeur mobile",
+        "url": "/users/c/developpement/sc/creation-application-mobile"
+      },
+      {
+        "nom": "Développeur iOS",
+        "url": "/users/c/developpement/sc/creation-application-iphone"
+      },
+      {
+        "nom": "Développeur Android",
+        "url": "/users/c/developpement/sc/creation-application-android"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/463046-recherche-un-developpeur",
+    "id": "463046",
+    "titre": "Recherche un développeur",
+    "statut": "Fermé",
+    "budget": null,
+    "offres": "11 offres",
+    "vues": "1309 vues",
+    "interactions": "8 interactions",
+    "description": "Nous recherchons un freelance pour le développement d'une application Web/mobile type strava orienté agricole",
+    "date_publication": "22 août 2025 à 17h20",
+    "budget_detaille": "500 € à 1 000 €",
+    "profils_recherches": [
+      {
+        "nom": "Développeur spécifique",
+        "url": "/users/c/web/sc/developpement-specifique"
+      },
+      {
+        "nom": "Développeur mobile",
+        "url": "/users/c/developpement/sc/creation-application-mobile"
+      },
+      {
+        "nom": "Développeur full-stack",
+        "url": "/users/c/developpement/sc/full-stack"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/459516-specialiste-developpeur-symfony",
+    "id": "459516",
+    "titre": "Spécialiste développeur Symfony",
+    "statut": "Ouvert",
+    "budget": null,
+    "offres": "41 offres",
+    "vues": "3527 vues",
+    "interactions": "38 interactions",
+    "description": "Nous recherchons un Freelance pour reprendre des sites existants afin de répondre aux demandes clients dans le cadre de modifications sur leurs sites ou d'ajout de fonctionnalité, évolutions et mises à jour.\n\nLes sites sont tous développés en Symfony.\n\nNous attendons un devis horaire svp",
+    "date_publication": "09 juillet 2025 à 14h54",
+    "budget_detaille": "500 € à 1 000 €",
+    "profils_recherches": [
+      {
+        "nom": "Développeur Symfony",
+        "url": "/users/c/developpement/sc/framework-zend-symfony"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/463037-developpement-d-une-application-de-vente-de-photos-evenementielles",
+    "id": "463037",
+    "titre": "Développement d'une application de vente de photos événementielles",
+    "statut": "Ouvert",
+    "budget": null,
+    "offres": "9 offres",
+    "vues": "1239 vues",
+    "interactions": "12 interactions",
+    "description": "🎯 Contexte\nJe suis photographe événementiel (sport auto, compétitions équestres, etc.).\nJe souhaite mettre en place une application sur mesure pour vendre mes photos directement sur place aux clients, via tablette.\nWorkflow attendu :\nPrise de vue → transfert Lightroom Classic → retouche rapide → export auto → envoi serveur → affichage immédiat dans l’application → vente directe.\n\n🔧 Fonctionnalités attendues\nCôté client (tablette en libre accès au stand)\nGalerie de photos avec miniatures, consultation plein écran.\nRecherche par cavalier/dossard.\nSélection en grand format avec choix du produit associé :\n📸 Photo imprimée (tarif 1),\n💻 Photo numérique (tarif 2),\n📦 Pack numérique (toutes les photos liées au cavalier).\nGestion du panier : ajout/modification/suppression de photos.\nPour le pack numérique, possibilité d’ajouter des tirages à coût réduit.\nValidation de commande → passage au stand → paiement via TPE.\nCôté photographe (back-office / site local)\nSuivi des commandes en temps réel.\nValidation manuelle des commandes après paiement TPE.\nRécapitulatif (ventes, clients, photos commandées).\nGestion des tarifs, packs, événements.\n\n📱 Contraintes techniques\nApplication web responsive (tablette/PC/smartphone).\nIntégration simple avec Lightroom Classic (export vers dossier surveillé).\nHébergement serveur (cloud type OVH, AWS, etc.).\nSécurité (HTTPS, gestion des accès).\nSolution évolutive (nouvelles galeries, nouveaux événements).\n💰 Livrables\nLe code source livré doit m’appartenir.\n\n🗓️ Délais\nPremière version utilisable souhaitée dans les prochains mois (selon planning développeur).\n\n🙋‍♀️ Profil recherché\nDéveloppeur freelance ou agence avec expérience en :\nDéveloppement web/app (React, Vue.js, Node.js, Laravel, etc.).\nGestion d’images/photos.\nExpérience e-commerce appréciée.\n\n👉 Merci de m’envoyer :\nVos références (projets similaires),\nUne estimation budgétaire,\nVos disponibilités pour échanger.",
+    "date_publication": "22 août 2025 à 16h31",
+    "budget_detaille": "500 € à 1 000 €",
+    "profils_recherches": [
+      {
+        "nom": "Développeur spécifique",
+        "url": "/users/c/web/sc/developpement-specifique"
+      },
+      {
+        "nom": "Développeur full-stack",
+        "url": "/users/c/developpement/sc/full-stack"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/463028-integration-web-refonte-graphique-html-django-front-end",
+    "id": "463028",
+    "titre": "Intégration web, refonte graphique - HTML / Django Front-end",
+    "statut": "Fermé",
+    "budget": null,
+    "offres": "31 offres",
+    "vues": "1453 vues",
+    "interactions": "26 interactions",
+    "description": "Bonjour !\nNous recherchons un freelance capable d’assurer l’intégration de la dernière refonte graphique de notre site de traduction juridique (projet basé sur Django).\n\nCompétences techniques requises :\n- Maîtrise de HTML5/CSS3\n- Tailwind CSS (framework CSS principal du projet)\n- JavaScript ES6+ (vanilla, sans framework SPA)\n- Responsive Design\n-  Django Templates (système de templates)\n\nL’intégration se fera à partir d’un projet Figma, de maquettes HTML partiellement réalisées, ainsi que de certaines pages statiques déjà mises en place.\n\nLes locaux sont situés à Rueil-Malmaison, en Île-de-France. Le full remote est négociable selon le profil, mais un mode hybride serait idéal afin de garantir un bon accompagnement.",
+    "date_publication": "22 août 2025 à 13h04",
+    "budget_detaille": "1 000 € à 10 000 €",
+    "profils_recherches": [
+      {
+        "nom": "Intégrateur web",
+        "url": "/users/c/web/sc/css-html-xml"
+      },
+      {
+        "nom": "Spécialiste refonte de site web",
+        "url": "/users/c/web/sc/migration-ou-refonte-de-site"
+      },
+      {
+        "nom": "Développeur front-end",
+        "url": "/users/c/developpement/sc/developpeur-front-end"
+      },
+      {
+        "nom": "Développeur Django",
+        "url": "/users/c/developpement/sc/django"
+      },
+      {
+        "nom": "Intégrateur HTML",
+        "url": "/users/c/web/sc/integration-html"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/463025-developpement-d-un-simulateur-de-devis-web-avec-calendrier-tva-pdf",
+    "id": "463025",
+    "titre": "Développement d’un simulateur de devis web avec calendrier, TVA, PDF",
+    "statut": "Ouvert",
+    "budget": null,
+    "offres": "21 offres",
+    "vues": "1425 vues",
+    "interactions": "17 interactions",
+    "description": "Description du besoin :\nJe  souhaite développer un simulateur de devis interactif à intégrer sur un site PHP avec une partie WordPress. L’outil doit permettre aux utilisateurs d’obtenir un calcul détaillé et clair du coût de leur demande en fonction des dates sélectionnées et des règles tarifaires définies. \nJ'ai déja fait un proto rapide qui tourne sous wp. Je ne pense pas qu'il y ait plus de quatre heures de travail. \n\nFonctionnalités attendues :\n\nCalendrier de réservation\n\nSélection des dates de début et de fin\n\nComptage inclusif des jours (ex. du 01 au 05 = 5 jours)\n\nFuseau horaire : Europe/Madrid (calcul basé sur journées complètes : 00h00 – 23h59)\n\nCalcul automatique du tarif\n\nApplication des tarifs journaliers définis\n\nGestion de différentes grilles tarifaires selon périodes\n\nApplication de réductions commerciales (ex. nouveaux clients, périodes promotionnelles)\n\nSi le prix total dépasse 239 €, proposer automatiquement le forfait annuel à 239 €\n\nTarif spécifique pour les demandes de  longue durée (ex. tarif dégressif ou forfait spécial à partir d’un certain nombre de jours)\n\nAffichage complet du devis\n\nRésumé clair comprenant :\n\nNombre de jours\n\nTarif appliqué (standard, promotion, longue durée, forfait annuel)\n\nRéductions éventuelles\n\nSous-total HT\n\nTVA à 20%\n\nMontant total TTC\n\nComparaison possible entre plusieurs simulations (ex. Devis 1, Devis 2, Devis 3)\n\nGénération de devis en PDF\n\nPossibilité pour l’utilisateur de télécharger un devis PDF au format professionnel (logo, coordonnées, détail HT/TVA/TTC, conditions éventuelles)\n\nMise en page claire et adaptée à une présentation client\n\nIntégration\n\nCode compatible avec un site WordPress\n\nScript léger, responsive et simple à maintenir\n\nDéveloppement en JavaScript/HTML/CSS natif ou avec une solution simple sans dépendances lourdes\n\nLivrables attendus :\n\nCode source du simulateur prêt à intégrer\n\nDocumentation d’installation et de personnalisation\n\nTests avec différents cas (dates, remises, longue durée, dépassement de 239 €, TVA, PDF)\n\nProfil recherché :\nDéveloppeur web freelance (WordPress/JS/PHP) avec expérience dans la création de calculateurs et d’exports PDF.\n\nBudget et délai :\n\nBudget à proposer : merci d’indiquer uniquement prix forfaitaire, (pas de prix TJM)\n\nDélai souhaité : 1 à 2 semaines",
+    "date_publication": "22 août 2025 à 12h13",
+    "budget_detaille": "Moins de 500 €",
+    "profils_recherches": [
+      {
+        "nom": "Développeur spécifique",
+        "url": "/users/c/web/sc/developpement-specifique"
+      },
+      {
+        "nom": "Intégrateur web",
+        "url": "/users/c/web/sc/css-html-xml"
+      },
+      {
+        "nom": "Développeur WordPress",
+        "url": "/users/c/web/sc/wordpress"
+      },
+      {
+        "nom": "Développeur JavaScript",
+        "url": "/users/c/developpement/sc/javascript"
+      },
+      {
+        "nom": "Développeur PHP",
+        "url": "/users/c/developpement/sc/php-mysql"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/463019-notion-yield-tableau-de-bord-dashboard-kpi",
+    "id": "463019",
+    "titre": "Notion Yield tableau de bord dashboard KPI",
+    "statut": "Ouvert",
+    "budget": null,
+    "offres": "11 offres",
+    "vues": "913 vues",
+    "interactions": "10 interactions",
+    "description": "Cahier des charges – Tableau de bord KPI Yield sur Notion\n1. Objectif\nCréer un dashboard Notion simple, visuel et automatisé qui permet de :\nSuivre la performance quotidienne, hebdomadaire et mensuelle.\nPiloter l’occupation, l’ADR, le RevPAR et le RevPOR.\nDifférencier les segments clients (couples, groupes, B2B/teambuilding, OTA vs direct).\nAnticiper les creux (forecast/pick-up) pour ajuster la stratégie tarifaire.\n2. Bases de données à créer dans Notion\nA. Réservations\nChamps :\nDate d’arrivée\nDate de départ\nNombre de nuits (calcul auto)\nChambre(s) (relation avec base “Chambres”)\nNombre de personnes\nType de client (Couple / Groupe / Entreprise)\nCanal de réservation (Direct / Booking / Airbnb / Autre OTA)\nPrix chambre total\nRevenus extras (pdj, boissons, jeux, bouchon)\nRevenus totaux (calcul auto = chambres + extras)\nB. Chambres\nChamps :\nNom (Violet, Mustard, Rose, Grey)\nCapacité max\nStatut (dispo/occupée)\nRevenu cible par nuit (pour suivi objectif RevPAR)\nC. Calendrier\nChamps :\nDate\nChambres disponibles ce jour-là\nChambres occupées ce jour-là (relation auto avec Réservations)\nNuits vendues (calcul auto)\nOccupation (%) = nuits vendues / nuits dispo\nRevenus chambres du jour\nRevenus extras du jour\nRevenus totaux du jour\n3. KPI à calculer automatiquement\nTaux d’occupation = Nuits vendues ÷ Nuits disponibles\nADR (Average Daily Rate) = Revenu chambres ÷ Nuits vendues\nRevPAR (Revenue per Available Room) = Revenu chambres ÷ Nuits disponibles\nRevPOR (Revenue per Occupied Room) = Revenus totaux ÷ Nuits vendues\nPick-up = Nouvelles résas par rapport à la semaine précédente (formule différée)\nSegmentation = % OTA vs Direct, Couples vs Groupes vs Entreprises\n4. Dashboard (vue principale Notion)\nBloc Résumé mensuel :\nADR\nRevPAR\nRevPOR\nTaux d’occupation\nCA total (chambres + extras)\nThermomètre KPI : objectifs vs réalisé (ex. RevPAR objectif 85 € → Réalisé 72 € → 84 % atteint).\nGraphiques (via ChartBase ou embed Google Sheets) :\nTaux d’occupation mensuel.\nADR vs RevPAR dans le temps.\nRépartition des revenus (Chambres vs Extras).\nCanaux de réservation (% Booking, Direct, etc.).\n5. Automatisations à prévoir\nImport automatique des réservations depuis Elloha (via Zapier/Make → Notion).\nExport mensuel PDF pour ton suivi comptable.\nAlertes automatiques (ex. si occupation < 50 % à J-7, tu reçois un mail).\n6. Livrables attendus du freelance Notion\nCréation de 3 bases (Réservations / Chambres / Calendrier).\nMise en place des formules ADR, RevPAR, RevPOR, Taux d’occupation.\nUn Dashboard visuel et ergonomique (avec objectifs en thermomètre, blocs clairs).\nVues par période (Jour, Semaine, Mois, Année).\nVues par segment (Couple / Groupe / B2B, Direct vs OTA).\nDocumentation rapide (1 page) pour que tu puisses le faire évoluer seule.\n\nINFOS à récupérer dans ELLOHA, mon outil de réservation français.\nBien à vous, \nLily",
+    "date_publication": "22 août 2025 à 11h35",
+    "budget_detaille": "Moins de 500 €",
+    "profils_recherches": [
+      {
+        "nom": "Chef de projet",
+        "url": "/users/c/developpement/sc/gestion-de-projet"
+      },
+      {
+        "nom": "Développeur make",
+        "url": "/users/c/web/sc/make"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/463016-recherche-developpeur-mobile",
+    "id": "463016",
+    "titre": "Recherche développeur mobile",
+    "statut": "Ouvert",
+    "budget": null,
+    "offres": "14 offres",
+    "vues": "905 vues",
+    "interactions": "19 interactions",
+    "description": "Bonjour,\n\nProjet – Application mobile + objet connecté (BLE)\nNous recherchons :\n\nDéveloppeur mobile (iOS & Android, Flutter ou React Native)\n\nDesigner UI/UX (maquette premium, inspiration spirituelle, sobre & élégante)\n\n📌 Mission :\n\nDévelopper une application mobile connectée en Bluetooth à un objet.\n\nPrévoir intégration paiement pour abonnement mensuel (in-app purchase).\n\n💼 Profil recherché :\n\nExpérience confirmée en développement d’applications connectées (BLE).\n\nExpérience design UI/UX avec sensibilité au monde spirituel / méditatif.\n\n📍 Localisation : France (distanciel possible).",
+    "date_publication": "22 août 2025 à 09h49",
+    "budget_detaille": "Moins de 500 €",
+    "profils_recherches": [
+      {
+        "nom": "Intégrateur de systèmes de paiement en ligne",
+        "url": "/users/c/e-commerce/sc/paiement-carte-bancaire"
+      },
+      {
+        "nom": "Développeur mobile",
+        "url": "/users/c/developpement/sc/creation-application-mobile"
+      },
+      {
+        "nom": "Développeur iOS",
+        "url": "/users/c/developpement/sc/creation-application-iphone"
+      },
+      {
+        "nom": "Développeur Android",
+        "url": "/users/c/developpement/sc/creation-application-android"
+      },
+      {
+        "nom": "Développeur IoT",
+        "url": "/users/c/developpement/sc/objects-connectes"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/463014-recherche-developpeur-sketchfab-pour-configurateur-3d",
+    "id": "463014",
+    "titre": "Recherche développeur sketchfab pour configurateur 3d",
+    "statut": "Ouvert",
+    "budget": null,
+    "offres": "5 offres",
+    "vues": "875 vues",
+    "interactions": "8 interactions",
+    "description": "Bonjour,\nNous recherchons un développeur sketchfab ou autre pour créer un configurateur 3d sur notre site internet.\nNous avons les fichiers 3d fbx et les textures de nos tables.\nCordialement\nSylvain",
+    "date_publication": "22 août 2025 à 09h45",
+    "budget_detaille": "Moins de 500 €",
+    "profils_recherches": [
+      {
+        "nom": "Développeur spécifique",
+        "url": "/users/c/web/sc/developpement-specifique"
+      },
+      {
+        "nom": "Développeur JavaScript",
+        "url": "/users/c/developpement/sc/javascript"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/268744-projet-confidentiel",
+    "id": "268744",
+    "titre": "Projet accessible aux prestataires abonnés uniquement.",
+    "statut": "Fermé",
+    "budget": null,
+    "offres": "24 offres",
+    "vues": "1926 vues",
+    "interactions": "3 interactions",
+    "description": null,
+    "date_publication": "10 novembre 2020 à 07h50",
+    "budget_detaille": "1 000 € à 10 000 €",
+    "profils_recherches": [
+      {
+        "nom": "Développeur API",
+        "url": "/users/c/developpement/sc/conception-api"
+      }
+    ],
+    "competences": ["Confidentiel"],
+    "localisation": null
+  },
+  {
+    "url": "/projects/463005-application-web",
+    "id": "463005",
+    "titre": "Application web",
+    "statut": "Fermé",
+    "budget": null,
+    "offres": "8 offres",
+    "vues": "1494 vues",
+    "interactions": "8 interactions",
+    "description": "Je recherche un dev pour un projet de création de site tracker de collection. Mon idée est une plateforme en ligne qui permet aux collectionneurs de gérer facilement leurs figurines.\nIls peuvent créer leur catalogue personnel, suivre leurs dépenses, construire une wishlist, avoir des statistiques et graphique mais aussi la possibilité de partager leur collections aux autre membres. Voir ajouter un système d'échange / annonce.",
+    "date_publication": "21 août 2025 à 22h42",
+    "budget_detaille": "Moins de 500 €",
+    "profils_recherches": [
+      {
+        "nom": "Développeur web",
+        "url": "/users/c/web/sc/creation-de-site-internet"
+      },
+      {
+        "nom": "Développeur spécifique",
+        "url": "/users/c/web/sc/developpement-specifique"
+      },
+      {
+        "nom": "Développeur full-stack",
+        "url": "/users/c/developpement/sc/full-stack"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/463004-recherche-developpeur-mobile",
+    "id": "463004",
+    "titre": "Recherche développeur mobile",
+    "statut": "Ouvert",
+    "budget": null,
+    "offres": "28 offres",
+    "vues": "1488 vues",
+    "interactions": "24 interactions",
+    "description": "Il s’agit de créer un site d’annonce ou application pour petits et gros électroménager, mobilier d’occasion avec des barèmes de prix, ajuster selon l’état d’usure, l’ancienneté d’achat avec ou sans facture et délai de réponse exigée. Nous avons déjà le nom et le logo de fait, ainsi qu’une ébauche du cahier de charges.Plus d’informations si l’on travaille ensemble.",
+    "date_publication": "21 août 2025 à 22h42",
+    "budget_detaille": "Moins de 500 €",
+    "profils_recherches": [
+      {
+        "nom": "Développeur web",
+        "url": "/users/c/web/sc/creation-de-site-internet"
+      },
+      {
+        "nom": "Développeur spécifique",
+        "url": "/users/c/web/sc/developpement-specifique"
+      },
+      {
+        "nom": "Développeur mobile",
+        "url": "/users/c/developpement/sc/creation-application-mobile"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/462989-recherche-developpeur-web",
+    "id": "462989",
+    "titre": "Recherche développeur web",
+    "statut": "Ouvert",
+    "budget": null,
+    "offres": "42 offres",
+    "vues": "1632 vues",
+    "interactions": "51 interactions",
+    "description": "Nous recherchons un développeur web motivé pour rejoindre un projet déjà lancé.\nNotre besoin porte principalement sur :\n\t•\tAmélioration d’une application web déjà existante (confirmation email, paiements sécurisés, dashboard).\n\t•\tDéveloppement d’un catalogue produits (type marketplace) pour afficher les marques.\n\t•\tIntégration d’un système de commission automatique sur chaque vente.\n\nCompétences nécessaires :\n\t•\tReact / Next.js ou équivalent pour le front.\n\t•\tNode.js / PHP / Django pour le back-end.\n\t•\tIntégration API (paiement type Stripe).\n\t•\tExpérience en UX/UI est un plus.\n\nNotre vision : collaborer avec un développeur qui souhaite s’investir à long terme et éventuellement intégrer l’équipe du projet.",
+    "date_publication": "21 août 2025 à 18h23",
+    "budget_detaille": "500 € à 1 000 €",
+    "profils_recherches": [
+      {
+        "nom": "Développeur Node.js",
+        "url": "/users/c/developpement/sc/node-js"
+      },
+      {
+        "nom": "Développeur API",
+        "url": "/users/c/developpement/sc/conception-api"
+      },
+      {
+        "nom": "Développeur React",
+        "url": "/users/c/developpement/sc/react"
+      },
+      {
+        "nom": "Consultant marketplace",
+        "url": "/users/c/e-commerce/sc/marketplace"
+      },
+      {
+        "nom": "Spécialiste Stripe",
+        "url": "/users/c/e-commerce/sc/paiement-stripe"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/462967-creation-d-une-application-mobile",
+    "id": "462967",
+    "titre": "Création d'une application mobile",
+    "statut": null,
+    "budget": null,
+    "offres": "47 offres",
+    "vues": "1459 vues",
+    "interactions": "3 interactions",
+    "description": "Développement d'une application mobile multiplateforme,robuste et personnalisée pour les entités administratives. Cette solution sera destinée à la fois aux citoyens et au personnel interne, dans le but d'améliorer lacommunication, l'accès aux services et la gestion interne.L'application sera développée pour les plateformes iOS et Android, avec uneinterface sécurisée, multilingue et conviviale. Les fonctionnalités clés incluent l'accès hors ligne, la personnalisation par entité, et un tableau de bordd'administration accessible via le web.",
+    "date_publication": "21 août 2025 à 18h09",
+    "budget_detaille": "1 000 € à 10 000 €",
+    "profils_recherches": [
+      {
+        "nom": "Développeur spécifique",
+        "url": "/users/c/web/sc/developpement-specifique"
+      },
+      {
+        "nom": "Développeur mobile",
+        "url": "/users/c/developpement/sc/creation-application-mobile"
+      },
+      {
+        "nom": "Développeur iOS",
+        "url": "/users/c/developpement/sc/creation-application-iphone"
+      },
+      {
+        "nom": "Développeur Android",
+        "url": "/users/c/developpement/sc/creation-application-android"
+      },
+      {
+        "nom": "Développeur full-stack",
+        "url": "/users/c/developpement/sc/full-stack"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/462987-recherche-developpeur-mobile",
+    "id": "462987",
+    "titre": "Recherche développeur mobile",
+    "statut": "Ouvert",
+    "budget": null,
+    "offres": "26 offres",
+    "vues": "1385 vues",
+    "interactions": null,
+    "description": "Nous recherchons un développeur web pour la création d’une application mobile",
+    "date_publication": "21 août 2025 à 17h21",
+    "budget_detaille": "500 € à 1 000 €",
+    "profils_recherches": [
+      {
+        "nom": "Développeur mobile",
+        "url": "/users/c/developpement/sc/creation-application-mobile"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/462986-creation-d-un-serveur-gta-rp-five-m",
+    "id": "462986",
+    "titre": "Création d’un serveur GTA RP Five M",
+    "statut": "Ouvert",
+    "budget": null,
+    "offres": "4 offres",
+    "vues": "1270 vues",
+    "interactions": "8 interactions",
+    "description": "Recherche développeur\n\n🔎 Recherche développeur FiveM – Projet sérieux sous structure SASU\n\nJe recherche un développeur FiveM sérieux, investi et disponible pour travailler sur la création d’une base complète, stable et sans bug, capable de tourner en production sans aucun problème technique. Les propositions avec des tarifs exorbitants ça sert à rien de me contacter. Je connais les tarifs, j’ai déjà travaillé avec des développeurs certifiés Five M.\n\nJ’aimerais obtenir une base de qualité professionnelle, optimisée et personnalisée en profondeur avec:\n\t•\tDes jobs légaux et illégaux parfaitement paramétrés.\n\t•\tUn ensemble de mapping variés et de qualité, issus de votre catalogue.\n\t•\tUne personnalisation complète au niveau des textures, logos, véhicules et tenues.\n\t•\tDes véhicules débadgés et des vêtements sans aucune marque réelle.\n\t•\tLe renommage systématique de tous les assets (véhicules, vêtements, mapping) pour supprimer toute référence à une marque, enseigne ou identité réelle.\n\nJe recherche avant tout une personne fiable, impliquée et capable de s’investir réellement dans le projet. j’ai besoin d’un résultat professionnel, propre et exploitable directement…\nCe projet est porté par une société SASU.\nUn contrat de collaboration sera établi puis transmis à mon service juridique et à mon expert-comptable. Ce document fixera les engagements et garantira une relation claire, sécurisée et professionnelle.\n\nLe développeur devra s’assurer que le projet respecte strictement Les conditions imposées par FiveM, Les règles établies par Rockstar, Les obligations légales liées à Tebex, Aucun contenu protégé, aucune marque ni enseigne réelle ne devra apparaître.\n\nJ’aimerais collaborer avec un développeur qui soit disponible et réactif, sérieux et impliqué, capable de livrer une base clé en main, 100 % fonctionnelle et optimisée. Et qui dispose de nombreux mapping dernière génération pour pouvoir les installer sur ma base.\n\n📩 Si vous êtes intéressé, merci de me contacter avec vos références, vos compétences et vos conditions de travail.",
+    "date_publication": "21 août 2025 à 17h21",
+    "budget_detaille": "Moins de 500 €",
+    "profils_recherches": [
+      {
+        "nom": "Développeur spécifique",
+        "url": "/users/c/web/sc/developpement-specifique"
+      },
+      {
+        "nom": "Développeur de jeux vidéo",
+        "url": "/users/c/developpement/sc/jeux-videos"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/462974-developpeur-fullstack-react-java-spring-boot-a-toulouse",
+    "id": "462974",
+    "titre": "Développeur Fullstack React java Spring boot à Toulouse",
+    "statut": "Ouvert",
+    "budget": null,
+    "offres": "4 offres",
+    "vues": "1274 vues",
+    "interactions": "8 interactions",
+    "description": "Nous recherchons un développeur Fullstack React Java Spring Boot pour un démarrage dès le 1er septembre sur Toulouse.\nIl est nécessaire de parler anglais.\n\nProfil ingénieur requis, avec une expérience significative sur ces technos d'au moins 4 ans.\n\nMerci de me répondre en me fournissant votre TJM et votre dossier de compétences ou CV.",
+    "date_publication": "21 août 2025 à 15h40",
+    "budget_detaille": "Moins de 500 €",
+    "profils_recherches": [
+      {
+        "nom": "Développeur Java",
+        "url": "/users/c/developpement/sc/java"
+      },
+      {
+        "nom": "Développeur full-stack",
+        "url": "/users/c/developpement/sc/full-stack"
+      },
+      {
+        "nom": "Développeur back-end",
+        "url": "/users/c/developpement/sc/back-end"
+      },
+      {
+        "nom": "Développeur React",
+        "url": "/users/c/developpement/sc/react"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  },
+  {
+    "url": "/projects/462968-developpement-application-mobile-secuanimale",
+    "id": "462968",
+    "titre": "Développement application mobile « SecuAnimale »",
+    "statut": "Fermé",
+    "budget": null,
+    "offres": "46 offres",
+    "vues": "1164 vues",
+    "interactions": "25 interactions",
+    "description": "Développement application mobile « SecuAnimale » – santé & bien-être animal\n\nDescription :\nBonjour,\n\nJe recherche un développeur mobile (iOS + Android) pour créer l’application SecuAnimale (nom et concept protégés à l’INPI).\n\n👉 Fonctionnalités principales :\n\t•\tCarnet de santé digitalisé (vaccins, traitements).\n\t•\tRappels automatiques (vaccins, visites, toilettage).\n\t•\tStockage de documents.\n\t•\tMise en relation avec professionnels (vétos, toiletteurs, animaleries…).\n\t•\tAbonnements : particuliers (1 mois offert puis 3€/mois) et pros (10€ ou 30€/mois selon activité).\n\nJe cherche un devis incluant : développement, design, sécurité des données (RGPD), et mise en ligne sur les stores.\n\nMerci de m’indiquer vos délais, références et conditions de maintenance.\n\nValérie Sourbie",
+    "date_publication": "21 août 2025 à 14h58",
+    "budget_detaille": "1 000 € à 10 000 €",
+    "profils_recherches": [
+      {
+        "nom": "Développeur mobile",
+        "url": "/users/c/developpement/sc/creation-application-mobile"
+      },
+      {
+        "nom": "Développeur iOS",
+        "url": "/users/c/developpement/sc/creation-application-iphone"
+      },
+      {
+        "nom": "Développeur Android",
+        "url": "/users/c/developpement/sc/creation-application-android"
+      }
+    ],
+    "competences": null,
+    "localisation": null
+  }
+]
