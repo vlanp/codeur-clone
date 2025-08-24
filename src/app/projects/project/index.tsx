@@ -4,6 +4,7 @@ import projectsString from "../../../assets/projects.json?raw";
 import { useEffect, useRef, useState } from "react";
 import type { IProject } from "../../../interfaces/IProject";
 import { createPortal } from "react-dom";
+import ProjectCardExtended from "../../components/projectCardExtended";
 
 // See issue with dangerouslySetInnerHTML and React 19 https://github.com/facebook/react/issues/31600
 const ProjectPage = () => {
@@ -21,17 +22,22 @@ const ProjectPage = () => {
     if (htmlContainerRef.current) {
       htmlContainerRef.current.innerHTML = html;
     }
-    // const element = document.getElementById("search-content");
-    // if (!element) {
-    //   throw new Error('An element with id "search-content" should exist.');
-    // }
-    // setPortalContainer(element);
+    const element = document.getElementById("project_datas");
+    if (!element) {
+      throw new Error('An element with id "project_datas" should exist.');
+    }
+    setPortalContainer(element);
   }, []);
 
   return (
     <>
       <div ref={htmlContainerRef} />
-      {portalContainer && createPortal(projectsJsx, portalContainer)}
+      {portalContainer &&
+        project &&
+        createPortal(
+          <ProjectCardExtended project={project} />,
+          portalContainer
+        )}
     </>
   );
 };

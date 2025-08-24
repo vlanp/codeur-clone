@@ -25,20 +25,7 @@ const ProjectsPage = () => {
   }, []);
 
   const projectsJsx = projects.current.map((project) => (
-    <ProjectCard
-      key={project.id}
-      title={project.titre}
-      status={project.statut}
-      budget={project.budget_detaille}
-      offers={project.offres}
-      views={project.vues}
-      interactions={project.interactions}
-      description={project.description}
-      technos={project.profils_recherches.map((it) => it.nom)}
-      publicationDate={project.date_publication}
-      id={project.id}
-      url={project.url}
-    />
+    <ProjectCard key={project.id} project={project} />
   ));
 
   return (

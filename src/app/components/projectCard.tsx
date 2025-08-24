@@ -1,31 +1,8 @@
 import CodeImg from "./codeImg";
 import { formatDateRelative } from "../utils";
+import type { IProject } from "../../interfaces/IProject";
 
-const ProjectCard = ({
-  title,
-  status,
-  budget,
-  offers,
-  views,
-  interactions,
-  description,
-  technos,
-  publicationDate,
-  id,
-  url,
-}: {
-  title: string;
-  status: "Ouvert" | "En travail" | "Fermé";
-  budget: string;
-  offers: string;
-  views: string;
-  interactions: string;
-  description: string;
-  technos: string[];
-  publicationDate: string;
-  id: string;
-  url: string;
-}) => {
+const ProjectCard = ({ project }: { project: IProject }) => {
   return (
     <div
       className="mb-4 card p-6"
@@ -43,8 +20,11 @@ const ProjectCard = ({
           <div className="mb-1">
             <div className="float-right ms-2"></div>
             <h3 className="mb-0 text-[1.1875rem]">
-              <a href={url} className="no-underline visited:text-visited">
-                {title}
+              <a
+                href={project.url}
+                className="no-underline visited:text-visited"
+              >
+                {project.titre}
               </a>
             </h3>
           </div>
@@ -57,16 +37,16 @@ const ProjectCard = ({
               >
                 <path
                   fill={
-                    status === "Ouvert"
+                    project.statut === "Ouvert"
                       ? "#22c55e"
-                      : status === "Fermé"
+                      : project.statut === "Fermé"
                       ? "#ef4444"
                       : "#3415faff"
                   }
                   d="M64 320C64 178.6 178.6 64 320 64C461.4 64 576 178.6 576 320C576 461.4 461.4 576 320 576C178.6 576 64 461.4 64 320z"
                 />
               </svg>
-              &nbsp;{status || "En travail"}
+              &nbsp;{project.statut || "En travail"}
             </span>
             <span className="px-1.5">·</span>
             <span
@@ -75,7 +55,7 @@ const ProjectCard = ({
               title=""
               data-bs-original-title="Budget indicatif"
             >
-              {budget}
+              {project.budget_detaille}
             </span>
             <span className="px-1.5">·</span>
             <span
@@ -84,48 +64,50 @@ const ProjectCard = ({
               title=""
               data-bs-original-title="Nombre d’offres"
             >
-              {offers}
+              {project.offres}
             </span>
             <span className="px-1.5">·</span>
-            <span className="whitespace-nowrap">{views}</span>
+            <span className="whitespace-nowrap">{project.vues}</span>
             <span className="px-1.5">·</span>
-            <span className="whitespace-nowrap">{interactions}</span>
+            <span className="whitespace-nowrap">{project.interactions}</span>
           </p>
           <div
             className="mt-2 break-anywhere line-clamp-3"
             data-project-preview-target="summary"
           >
-            {description}
+            {project.description}
           </div>
           <div
             className="mt-2 break-words hidden"
             data-project-preview-target="preview"
           ></div>
           <div className="mt-2 flex flex-wrap">
-            {technos.map((techno, index) => {
-              if (index > 0) {
+            {project.profils_recherches
+              .map((it) => it.nom)
+              .map((techno, index) => {
+                if (index > 0) {
+                  return (
+                    <div key={techno}>
+                      <span className="px-1.5">·</span>
+                      <a className="text-neutral-600 font-medium no-underline">
+                        {techno}
+                      </a>
+                    </div>
+                  );
+                }
                 return (
-                  <div key={techno}>
-                    <span className="px-1.5">·</span>
-                    <a className="text-neutral-600 font-medium no-underline">
-                      {techno}
-                    </a>
-                  </div>
+                  <a
+                    key={techno}
+                    className="text-neutral-600 font-medium no-underline"
+                  >
+                    {techno}
+                  </a>
                 );
-              }
-              return (
-                <a
-                  key={techno}
-                  className="text-neutral-600 font-medium no-underline"
-                >
-                  {techno}
-                </a>
-              );
-            })}
+              })}
           </div>
           <div className="md:flex items-center justify-between mt-2">
             <div className="text-muted">
-              <span>{formatDateRelative(publicationDate)} </span>
+              <span>{formatDateRelative(project.date_publication)} </span>
               <span>
                 par
                 <span
@@ -133,7 +115,7 @@ const ProjectCard = ({
                   title="Le nom du porteur de projet n'est accessible qu'aux prestataires abonnés"
                 >
                   {" "}
-                  Client {id}
+                  Client {project.id}
                 </span>
               </span>
             </div>

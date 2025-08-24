@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Outfit";
   src: local("Outfit-Regular"),
-    url(src/assets/Outfit-Regular-789a7ad1321de707b96e6220e638a2780d85a76c03a305c361b7f8899141bdbb.ttf);
+    url(/src/assets/Outfit-Regular-789a7ad1321de707b96e6220e638a2780d85a76c03a305c361b7f8899141bdbb.ttf);
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -10,7 +10,7 @@
 @font-face {
   font-family: "Outfit";
   src: local("Outfit-Medium"),
-    url(src/assets/Outfit-Medium-36890643194b258fe26ce4cbfc5d5d2787ed48ca506a5ec49bfbce181d582a63.ttf);
+    url(/src/assets/Outfit-Medium-36890643194b258fe26ce4cbfc5d5d2787ed48ca506a5ec49bfbce181d582a63.ttf);
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -19,7 +19,7 @@
 @font-face {
   font-family: "Outfit";
   src: local("Outfit-Bold"),
-    url(src/assets/Outfit-Bold-fd43cfe0a3a8243ce1b9170bfed80ec35263ef986a5a2fe18d336c56e45802e8.ttf);
+    url(/src/assets/Outfit-Bold-fd43cfe0a3a8243ce1b9170bfed80ec35263ef986a5a2fe18d336c56e45802e8.ttf);
   font-weight: 700;
   font-style: normal;
   font-display: swap;
