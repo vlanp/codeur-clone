@@ -1,6 +1,6 @@
 import "./App.css";
 import { BrowserRouter, Route, Routes } from "react-router";
-import ProjectsPage from "./app/projects/page";
+import ProjectsPage from "./app/projects";
 
 function App() {
   return (
