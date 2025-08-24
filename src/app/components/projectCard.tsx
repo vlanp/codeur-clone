@@ -1,5 +1,5 @@
-import CodeImg from "../../components/codeImg";
-import { formatDateRelative } from "../../utils";
+import CodeImg from "./codeImg";
+import { formatDateRelative } from "../utils";
 
 const ProjectCard = ({
   title,

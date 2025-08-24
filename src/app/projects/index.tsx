@@ -3,7 +3,7 @@ import { createPortal } from "react-dom";
 import html from "./index.html?raw";
 import projectsString from "../../assets/projects.json?raw";
 import type { IProject } from "../../interfaces/IProject";
-import ProjectCard from "./ProjectCard.tsx";
+import ProjectCard from "../components/projectCard.tsx";
 
 // See issue with dangerouslySetInnerHTML and React 19 https://github.com/facebook/react/issues/31600
 const ProjectsPage = () => {
