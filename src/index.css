@@ -1,4 +1,14 @@
 @import "tailwindcss";
+@import "./application-e2d9c893.css";
+@import "./application.e1d9948e.css";
+@import "./bootstrap-f04321d1.css";
+@import "./bootstrap.08ebce0e.css";
+@import "./chat_controller.6be74e90.css";
+@import "./flag_controller-c9584a4d.css";
+@import "./flag_controller.ac13aa70.css";
+@import "./tailwind-e124ab68.css";
+@import "./tailwind.cc267026.css";
+@import "./tooltip_controller-2880bd22.css";
 
 @font-face {
   font-family: "Outfit";
