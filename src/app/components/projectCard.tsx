@@ -1,4 +1,4 @@
-import CodeImg from "./codeImg";
+import CodeImg from "./CodeImg";
 import { formatDateRelative } from "../utils";
 import type { IProject } from "../../interfaces/IProject";
 
