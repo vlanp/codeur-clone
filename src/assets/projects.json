@@ -766,27 +766,6 @@
     "localisation": null
   },
   {
-    "url": "/projects/268744-projet-confidentiel",
-    "id": "268744",
-    "titre": "Projet accessible aux prestataires abonnés uniquement.",
-    "statut": "Fermé",
-    "budget": null,
-    "offres": "24 offres",
-    "vues": "1926 vues",
-    "interactions": "3 interactions",
-    "description": null,
-    "date_publication": "10 novembre 2020 à 07h50",
-    "budget_detaille": "1 000 € à 10 000 €",
-    "profils_recherches": [
-      {
-        "nom": "Développeur API",
-        "url": "/users/c/developpement/sc/conception-api"
-      }
-    ],
-    "competences": ["Confidentiel"],
-    "localisation": null
-  },
-  {
     "url": "/projects/463005-application-web",
     "id": "463005",
     "titre": "Application web",
