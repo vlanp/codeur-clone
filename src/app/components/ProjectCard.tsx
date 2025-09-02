@@ -6,7 +6,7 @@ const ProjectCard = ({ project }: { project: IProject }) => {
   return (
     <div
       className="mb-4 card p-6"
-      id="project-463099"
+      id="project-card"
       data-controller="project-preview"
       data-action="mouseleave-&gt;project-preview#showSummary"
     >
